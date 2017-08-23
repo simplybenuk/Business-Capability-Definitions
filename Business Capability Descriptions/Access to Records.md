@@ -1,4 +1,4 @@
-<h1>Access to Records</h1>
+#Access to Records
 
 <p>A capability for a professional in one care setting to access records/flags/documents across other care settings<p>
 
